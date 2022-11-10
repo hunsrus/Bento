@@ -52,40 +52,77 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			
+			id: '6',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 		{
 			id: '2',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
+		},
+		{
+			id: '3',
+			name: 'Whatsapp',
+			icon: 'message-circle',
+			link: 'https://web.whatsapp.com',
+		},
+		{
+			id: '4',
+			name: 'Trello',
+			icon: 'trello',
+			link: 'https://trello.com/',
+		},
+		{
+			id: '5',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://gmail.com/',
 		},
 		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
-			name: 'Whatsapp',
-			icon: 'message',
-			link: 'https://web.whatsapp.com',
-		},
-		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Campus Virtual',
+			icon: 'graduation-cap',
+			link: 'https://frp.cvg.utn.edu.ar/',
+		},
+		{
+			id: '7',
+			name: 'Mercado Libre',
+			icon: 'shopping-cart',
+			link: 'https://www.mercadolibre.com.ar/',
+		},
+		{
+			id: '8',
+			name: 'GitHub',
+			icon: 'github',
+			link: 'https://github.com/',
+		},
+		{
+			id: '9',
+			name: 'Google Maps',
+			icon: 'map',
+			link: 'https://www.google.com/maps',
+		},
+		{
+			id: '10',
+			name: 'Onshape',
+			icon: 'hexagon',
+			link: 'https://cad.onshape.com/',
+		},
+		{
+			id: '11',
+			name: 'Letterboxd',
+			icon: 'film',
+			link: 'https://letterboxd.com/',
+		},
+		{
+			id: '12',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
 	],
 
